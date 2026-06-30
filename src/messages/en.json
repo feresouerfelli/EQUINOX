@@ -1,0 +1,232 @@
+{
+  "common": {
+    "appName": "EQUINOX", "tagline": "Where Knowledge Meets Balance", "platformName": "Platform Name", "default": "Default",
+    "startFree": "Start Free", "login": "Log in", "register": "Sign up", "logout": "Log out",
+    "search": "Search", "loading": "Loading...", "save": "Save", "saved": "Saved !", "cancel": "Cancel",
+    "delete": "Delete", "edit": "Edit", "view": "View", "submit": "Submit",
+    "back": "Back", "next": "Next", "previous": "Previous", "seeAll": "See all",
+    "free": "Free", "paid": "Paid", "dt": "TND", "perMonth": "/month",
+    "students": "students", "student": "student", "lessons": "lessons", "lesson": "lesson", "hours": "hours", "rating": "Rating",
+    "enroll": "Enroll now", "continue": "Continue", "enrolled": "Enrolled", "welcome": "Welcome",
+    "or": "or", "and": "and", "required": "Required", "success": "Success", "error": "Error", "retry": "Retry",
+    "download": "Download", "upload": "Upload", "close": "Close", "confirm": "Confirm",
+    "notifications": "Notifications", "noNotifications": "No new notifications", "markAllRead": "Mark all as read",
+    "profile": "Profile", "settings": "Settings", "language": "Language", "security": "Security",
+    "appearance": "Appearance", "arabic": "Arabic", "french": "French", "english": "English",
+    "name": "Name", "email": "Email", "phone": "Phone", "specialty": "Specialty", "status": "Status", "role": "Role",
+    "actions": "Actions", "total": "Total", "yes": "Yes", "no": "No", "none": "None",
+    "active": "Active", "inactive": "Inactive", "pending": "Pending", "approved": "Approved", "rejected": "Rejected", "fraud": "Fraud", "draft": "Draft",
+    "all": "All", "professor": "Professor", "admin": "Admin", "teacher": "Professor",
+    "amount": "Amount", "date": "Date", "gateway": "Gateway", "reference": "Reference", "invoice": "Invoice",
+    "showing": "Showing", "of": "of", "pages": "pages", "noResults": "No results found",
+    "export": "Export", "filter": "Filter", "closeModal": "Close", "confirmAction": "Confirm action",
+    "code": "Code", "match": "Match", "mismatch": "Mismatch", "exif": "EXIF", "dimensions": "Dimensions", "description": "Description",
+    "recentStudents": "Recent students", "collaborators": "Collaborators"
+  },
+  "nav": { "home": "Home", "courses": "Courses", "liveSessions": "Live Sessions", "aiNotebook": "AI Notebook", "forum": "Forum", "myCourses": "My Courses", "pricing": "Pricing", "about": "About", "contact": "Contact" },
+  "hero": {
+    "badge": "Tunisia's #1 University Platform", "title": "Where Knowledge Meets Balance",
+    "subtitle": "Tunisia's leading university e-learning platform.",
+    "cta1": "Start for free", "cta2": "Browse courses",
+    "stats": { "students": "registered students", "courses": "available courses", "lessons": "recorded lessons", "rating": "student rating" }
+  },
+  "trust": { "title": "Trusted by Tunisian university students", "subtitle": "We partner with Tunisia's top universities" },
+  "features": {
+    "title": "Everything you need to succeed", "subtitle": "A complete platform for Tunisian university students",
+    "items": {
+      "video": { "title": "Recorded lessons", "description": "Watch courses in full HD" },
+      "live": { "title": "Live sessions", "description": "Interact live with your professors" },
+      "exercises": { "title": "Interactive exercises", "description": "Practice with MCQs and open exercises" },
+      "progress": { "title": "Progress tracking", "description": "Track your progress in every course" },
+      "forum": { "title": "Discussion groups", "description": "Discuss with classmates and professors" },
+      "pdf": { "title": "PDF summaries", "description": "Download course summaries in PDF" },
+      "ai": { "title": "AI Notebook", "description": "An intelligent assistant powered by AI" }
+    }
+  },
+  "whoIsIt": {
+    "title": "Who is this platform for?", "subtitle": "Designed for Tunisian university students",
+    "students": { "title": "Students", "description": "Follow your courses and interact with professors" },
+    "professors": { "title": "Professors", "description": "Share content and host live sessions" },
+    "institutions": { "title": "Universities & Institutes", "description": "Provide an exceptional digital learning experience" }
+  },
+  "pricing": {
+    "title": "Choose your plan", "subtitle": "Start for free and scale as you go",
+    "free": { "name": "Free", "price": "0", "period": "forever", "description": "For an initial exploration", "features": ["Browse courses", "Watch free trial lessons", "Join one group", "Limited AI notebook (50 messages/month)"], "cta": "Start for free", "badge": "" },
+    "premium": { "name": "Premium", "price": "39", "period": "month", "description": "Full access to everything you need", "features": ["Full access to all courses", "Watch all lessons without limits", "Download PDF summaries", "Unlimited interactive exercises", "Live sessions with professors", "Discussion groups for all courses", "Unlimited AI notebook", "Certified completion certificate"], "cta": "Subscribe now", "badge": "Most popular" },
+    "enterprise": { "name": "Enterprise", "price": "Custom", "period": "", "description": "Custom solutions for universities", "features": ["All Premium features", "Admin dashboard", "Custom branding", "Dedicated support", "Advanced reports & analytics", "Educational system integration"], "cta": "Contact us", "badge": "" }
+  },
+  "payments": {
+    "title": "Payment methods", "subtitle": "Pay the way that suits you",
+    "d17": { "name": "D17", "description": "Pay by phone — most used in Tunisia", "badge": "Most used in Tunisia" },
+    "konnect": { "name": "Konnect", "description": "Credit card or bank card" },
+    "flouci": { "name": "Flouci", "description": "Pay via Flouci app" },
+    "bank": { "name": "Bank transfer", "description": "Direct transfer to our bank account" }
+  },
+  "testimonials": { "title": "What our students say", "subtitle": "Thousands of Tunisian students trust EQUINOX" },
+  "cta": { "title": "Ready to get started?", "subtitle": "Join thousands of Tunisian students", "button": "Start for free" },
+  "footer": { "description": "Tunisia's leading university e-learning platform", "platform": "Platform", "support": "Support", "legal": "Legal", "privacy": "Privacy Policy", "terms": "Terms of Service", "copyright": "© 2026 EQUINOX. All rights reserved." },
+  "auth": {
+    "register": { "title": "Create an account", "subtitle": "Join thousands of Tunisian students", "fullName": "Full name", "email": "Email", "phone": "Phone number (+216)", "password": "Password", "confirmPassword": "Confirm password", "agreeTerms": "I agree to the terms of service", "submit": "Create account", "haveAccount": "Already have an account?", "loginLink": "Log in", "phonePlaceholder": "12345678" },
+    "login": { "title": "Log in", "subtitle": "Welcome back", "emailOrPhone": "Email or phone number", "password": "Password", "rememberMe": "Remember me", "forgotPassword": "Forgot password?", "submit": "Log in", "or": "or", "noAccount": "Don't have an account?", "registerLink": "Sign up" },
+    "otp": { "title": "Phone verification", "subtitle": "Enter the 6-digit code sent to your phone", "code": "Verification code", "submit": "Verify", "resend": "Resend code", "expires": "Valid for {minutes} minutes", "invalid": "Invalid code", "success": "Verification successful" },
+    "forgotPassword": { "title": "Reset password", "subtitle": "Enter your phone number", "submit": "Send code", "otpSentToPhone": "A verification code has been sent to your phone", "phoneNumber": "Phone number", "backToLogin": "Back to login" },
+    "resetPassword": { "title": "New password", "subtitle": "Enter your new password", "submit": "Update" }
+  },
+  "dashboard": {
+    "welcome": "Welcome!", "welcomeSubtitle": "Continue reviewing and track your progress",
+    "continueBtn": "Continue reviewing", "streak": "{days} day streak 🔥",
+    "completionRate": "Completion rate", "badges": "Badges",
+    "progressTitle": "Your progress", "myCourses": "My courses", "live": "Live", "forum": "Forum",
+    "noCourses": "You're not enrolled in any course", "browseCourses": "Browse courses"
+  },
+  "courses": {
+    "title": "Available courses", "search": "Search courses...",
+    "filters": { "specialty": "Specialty", "level": "Level", "professor": "Professor", "price": "Price", "button": "Filters" },
+    "levels": { "L1": "First year", "L2": "Second year", "L3": "Third year", "M1": "Master 1", "M2": "Master 2", "Doctorat": "Doctorate" },
+    "enrolledCount": "students enrolled", "freePreview": "Free preview", "curriculum": "Curriculum",
+    "overview": "Overview", "professor": "Professor", "reviews": "Reviews", "noReviews": "No reviews yet"
+  },
+  "player": { "speed": "Speed", "quality": "Quality", "fullscreen": "Fullscreen", "pip": "Picture in picture", "next": "Next", "previous": "Previous", "chapters": "Chapters", "notes": "My notes", "aiAssistant": "AI Assistant", "downloadPdf": "Download PDF", "progress": "Progress", "back": "Back", "clickToPlay": "Click to watch", "notesAppearHere": "Your notes will appear here", "askAIAboutLesson": "Ask the AI assistant about this lesson", "openNotebook": "Open AI Notebook", "lessonPrefix": "Lesson" },
+  "live": { "title": "Live sessions", "upcoming": "Upcoming sessions", "join": "Join now", "liveNow": "Live now", "ended": "Ended", "scheduled": "Scheduled", "chat": "Chat", "raiseHand": "Raise hand", "muteAll": "Mute all", "spotlight": "Spotlight", "shareScreen": "Share screen", "recording": "Recording", "endSession": "End session", "reminder": "Reminder", "comingSoon": "Coming soon", "activeLive": "Active live session", "noSessions": "No scheduled sessions", "newSchedule": "New schedule" },
+  "aiNotebook": {
+    "title": "AI Notebook", "chatPlaceholder": "Ask me any academic question...", "send": "Send",
+    "tokensRemaining": "Messages remaining", "clearChat": "New conversation", "exportPdf": "Export as PDF",
+    "courses": "Select course", "noContent": "Start writing or ask the AI assistant", "thinking": "Thinking...",
+    "chat": "Chat", "quiz": "Quiz", "wikiSearch": "Wikipedia search",
+    "activeCourse": "Active course:", "selectCourseFirst": "Please select a course first",
+    "noAnswer": "No answer.", "questionLabel": "Question", "correctAnswer": "Correct answer:", "explanation": "Explanation:",
+    "quizError": "Could not generate quiz questions for this topic.", "noSummary": "No summary available.",
+    "relatedArticles": "Related articles:", "unexpectedError": "An unexpected error occurred.",
+    "noCourses": "You're not enrolled in any course",
+    "noCoursesDesc": "To use the AI Notebook, you need to enroll in a course first.",
+    "browseCatalog": "Browse course catalog",
+    "chatDesc": "Ask the AI assistant any question about the course content.",
+    "quizDesc": "Enter a topic to generate a short interactive quiz.",
+    "wikiDesc": "Search Wikipedia and open sources.",
+    "thinkingAI": "Thinking via Gemini...",
+    "chatPlaceholderInput": "Ask AI about the course...",
+    "quizPlaceholderInput": "Enter a topic for the quiz (e.g. sequences)...",
+    "wikiPlaceholderInput": "Search concepts on Wikipedia..."
+  },
+  "payment": {
+    "title": "Subscription & Payment", "selectPlan": "Choose your plan", "selectMethod": "Choose your payment method",
+    "orderSummary": "Order summary", "plan": "Plan", "price": "Price", "duration": "Duration", "total": "Total",
+    "payNow": "Pay now", "processing": "Processing...",
+    "success": "Payment successful!", "successMessage": "Your subscription has been activated",
+    "failed": "Payment failed", "failedMessage": "An error occurred. Please try again.",
+    "goToDashboard": "Go to dashboard", "downloadInvoice": "Download invoice",
+    "phone": "Phone number", "cardNumber": "Card number", "expiry": "Expiry date", "cvv": "CVV",
+    "bankDetails": "Bank account details", "uploadProof": "Payment proof",
+    "subscription": { "current": "Current subscription", "renewal": "Renewal date", "cancel": "Cancel subscription", "upgrade": "Upgrade plan", "history": "Invoice history" }
+  },
+  "forum": {
+    "title": "Course groups", "newPost": "New post", "writePost": "Write your post here...",
+    "post": "Publish", "reply": "Reply", "replyNow": "Reply", "replyPlaceholder": "Your reply...",
+    "replies": "Replies", "likes": "Likes", "like": "Like", "pin": "Pin", "unpin": "Unpin",
+    "delete": "Delete", "search": "Search in group...", "noPosts": "No posts yet. Be the first to post!",
+    "professor": "Professor", "student": "Student", "admin": "Admin"
+  },
+  "admin": {
+    "title": "Dashboard",
+    "stats": { "totalStudents": "Total students", "revenue": "Monthly revenue", "activeSubscriptions": "Active subscriptions", "liveSessions": "Live sessions today", "newRegistrations": "New registrations today" },
+    "charts": { "monthlyRevenue": "Monthly revenue", "enrollmentsBySpecialty": "Enrollments by specialty", "paymentMethods": "Payment methods", "dailyActiveUsers": "Daily active users" },
+    "specialties": { "media": "Media", "medicine": "Medicine", "law": "Law", "economics": "Economics", "engineering": "Engineering", "arts": "Arts" },
+    "users": { "title": "User management", "addProfessor": "Add professor", "addNewProfessor": "Add new professor", "ban": "Ban", "unban": "Unban", "resetPassword": "Reset password", "exportCsv": "Export CSV", "name": "Name", "email": "Email", "phone": "Phone", "role": "Role", "status": "Status", "actions": "Actions", "searchPlaceholder": "Search by name or email...", "all": "All", "students": "Students", "professors": "Professors", "admins": "Admins", "noResults": "No results found" },
+    "courses": { "title": "Course management", "pending": "Pending approval", "approve": "Approve", "reject": "Reject", "all": "All", "active": "Active", "draft": "Draft", "searchPlaceholder": "Search courses...", "noCourses": "No courses" },
+    "broadcast": { "title": "Send broadcast notification", "to": "Recipients", "all": "All students", "group": "Specific group", "subject": "Subject", "message": "Message", "channels": "Delivery channels", "send": "Send", "sentSuccess": "Sent successfully!", "student": "student", "emailChannel": "Email", "emailDesc": "Send email to all students", "smsChannel": "SMS", "smsDesc": "Send a text message", "appChannel": "In-app notifications", "appDesc": "In-app notification instantly", "preview": "Preview", "previewTitle": "Notification title", "previewBody": "Message content will appear here...", "emailLabel": "Email", "appLabel": "App", "willReachAll": "Will reach ... students", "willReachGroup": "Will reach ... students in ...", "selectGroup": "Select a group", "subjectPlaceholder": "Notification title", "messagePlaceholder": "Write your message here...", "description": "Send notifications via email, SMS or in-app" },
+    "payments": { "title": "Payments", "all": "All", "bank": "Bank", "success": "Success", "pending": "Pending", "failed": "Failed", "mostUsed": "Most used", "bankTransfer": "Bank transfer", "searchPlaceholder": "Search...", "student": "Student", "amount": "Amount", "gateway": "Gateway", "reference": "Reference", "date": "Date", "status": "Status", "invoice": "Invoice", "noPayments": "No payments", "totalRevenue": "Total revenue:" },
+    "d17": { "title": "D17 Payment Requests", "clean": "Clean", "warning": "Warning", "suspect": "Suspect", "cleanDesc": "All checks passed — safe to activate", "warningDesc": "Some flags — review carefully before activating", "suspectDesc": "Suspect request — activation not recommended", "codeMatch": "✓ Code matches", "codeMismatch": "✗ Code doesn't match", "rejectReason": "Rejection reason...", "confirmReject": "Confirm rejection", "fraudReason": "Fraud report reason...", "reportFraud": "Report fraud", "noRequests": "No requests", "student": "Student", "email": "Email", "phone": "Phone", "amount": "Amount", "codeLabel": "Code", "exifLabel": "EXIF", "imageDate": "Image date:", "rejectedRequests": "Rejected requests:", "pending": "Pending", "approved": "Approved", "rejected": "Rejected", "fraudLabel": "Fraud" },
+    "live": { "title": "Live sessions", "subtitle": "Manage live sessions", "desc": "View all active and upcoming sessions" },
+    "notifications": { "title": "Notifications", "subtitle": "Send notifications to students and professors" },
+    "reports": { "title": "Reports", "subtitle": "Comprehensive platform performance reports", "comingSoon": "Coming soon: enrollment, revenue, and activity reports", "export": "Export report" },
+    "settings": { "title": "Settings", "platform": "Platform settings", "platformDesc": "Platform name, logo, general settings", "security": "Security", "securityDesc": "Passwords, two-factor authentication", "languages": "Languages", "languagesDesc": "Manage supported languages and translations", "emailNotifications": "Email notifications", "emailNotificationsDesc": "SMTP settings and notification templates" }
+  },
+  "profSidebar": { "overview": "Overview", "myCourses": "My Courses", "liveSessions": "Live Sessions", "students": "Students", "analytics": "Analytics", "settings": "Settings", "logout": "Logout", "uploads": "Uploads", "pdfs": "PDF Files", "questions": "Student Questions", "collapse": "Collapse menu", "verified": "Verified" },
+  "professor": {
+    "home": { "welcomeSubtitle": "Welcome to your dashboard", "welcomeDesc": "Track your courses and students", "totalStudents": "Total students", "revenue": "Revenue", "activeCourses": "Active courses", "upcomingSessions": "Upcoming sessions", "upcomingTitle": "Upcoming sessions", "session": "session", "today": "Today,", "day": { "sunday": "Sunday", "monday": "Monday", "tuesday": "Tuesday", "wednesday": "Wednesday", "thursday": "Thursday", "friday": "Friday", "saturday": "Saturday" } },
+    "analytics": { "totalRevenue": "Total revenue", "totalStudents": "Total students", "avgProgress": "Average progress", "activeSubjects": "Active subjects", "noData": "No data", "performance": "Subject performance", "subject": "Subject", "students": "Students", "rating": "Rating", "level": "Level" },
+    "courses": { "searchPlaceholder": "Search my courses...", "all": "All", "active": "Active", "draft": "Draft", "newCourse": "New course", "noCourses": "No courses" },
+    "live": { "title": "Live sessions", "newSchedule": "New schedule", "activeLive": "Active live session", "end": "End", "start": "Start", "noSessions": "No scheduled sessions" },
+    "pdfs": { "title": "PDF Files", "download": "Download", "downloading": "Downloading...", "downloaded": "Downloaded", "subject": "Subject:", "size": "Size:", "sampleFile": "(sample file - EQUINOX)" },
+    "questions": { "title": "Student Questions", "replied": "✓ Replied", "replyPlaceholder": "Write your reply...", "replyNow": "Reply" },
+    "settings": { "title": "Settings", "profile": "Profile", "name": "Name", "email": "Email", "specialty": "Specialty", "phone": "Phone", "bio": "Bio" },
+    "students": { "searchPlaceholder": "Search students...", "export": "Export", "student": "Student", "subject": "Subject", "progress": "Progress", "lastActivity": "Last activity", "status": "Status", "excellent": "Excellent", "average": "Average", "new": "New", "noStudents": "No enrolled students" },
+    "uploads": { "title": "Upload content", "uploading": "Uploading...", "uploaded": "Uploaded successfully!", "dragOrClick": "Drag and drop files or click to select", "filesUploaded": "Uploaded files", "file": "File", "type": "Type", "size": "Size", "date": "Date" }
+  },
+  "adminSidebar": { "overview": "Overview", "users": "Users", "professors": "Professors", "courses": "Courses", "live": "Live Sessions", "payments": "Payments", "reports": "Reports", "security": "Security", "notifications": "Notifications", "settings": "Settings", "broadcast": "Broadcast", "home": "Home", "collapse": "Collapse menu", "logout": "Logout", "d17": "D17" },
+  "studentSidebar": { "home": "Home", "courses": "Courses", "live": "Live", "ai": "AI Assistant", "forum": "Forum", "downloads": "Downloads", "payments": "Payments", "profile": "Profile", "subscription": "Subscription", "settings": "Settings", "logout": "Logout", "collapse": "Collapse menu" },
+  "topbar": { "notifications": "Notifications", "markAllRead": "Mark all as read", "noNotifications": "No new notifications", "newNotification": "New notification", "profile": "Profile", "settings": "Settings" },
+  "student": {
+    "live": { "title": "Live sessions", "join": "Join", "reminder": "Reminder", "comingSoon": "Coming soon" },
+    "profile": { "title": "Profile", "personalInfo": "Personal information", "name": "Name", "email": "Email", "phone": "Phone", "year": "Study year", "yearFirst": "First", "yearSecond": "Second", "yearThird": "Third", "university": "University", "specialty": "Specialty", "stats": "Statistics", "certificates": "Certificates", "coursesCount": "Courses", "points": "Points" },
+    "settings": { "languageLabel": "Language", "emailNotifications": "Email", "smsNotifications": "SMS", "appNotifications": "In-app", "passwordDesc": "Change password and security settings", "appearance": "Appearance", "appearanceDesc": "Customize platform appearance" },
+    "subscription": {
+      "title": "Subscription", "monthly": "Monthly", "yearly": "Yearly (-20%)", "currentPlan": "Current plan", "subscribeNow": "Subscribe now",
+      "plans": {
+        "free": { "name": "Free", "features": ["Access to 3 courses", "Limited AI (50 questions/day)", "Forum only", "Ticket support"] },
+        "pro": { "name": "Pro", "features": ["Unlimited courses", "Unlimited AI", "Live sessions", "Downloadable PDFs", "Priority support", "No ads"] },
+        "university": { "name": "Universities", "features": ["All Pro features", "Teacher accounts", "Universal dashboard", "Dedicated API", "Dedicated support"] }
+      }
+    },
+    "downloads": { "title": "Downloads" }
+  },
+  "d17": {
+    "title": "Premium Subscription", "amount": "Amount: 39 TND / month", "amountLabel": "TND",
+    "codeInfo": "A unique code will be generated for admin verification",
+    "generateCode": "Generate payment code", "payWithD17": "Pay with D17",
+    "addCodeNote": "Add this code in the notes when paying",
+    "codeWarning": "Write the code in the payment notes — without it the admin cannot verify your payment",
+    "validFor": "Valid for", "newCode": "New code",
+    "uploadProof": "Upload proof", "yourCode": "Your code",
+    "enterCode": "Enter the code you wrote in the notes",
+    "codePlaceholder": "EDU-____-______",
+    "codeMismatch": "Code doesn't match — check the code in your payment notes",
+    "clickToUpload": "Click to upload screenshot",
+    "fileTypes": "JPG or PNG — between 50KB and 10MB",
+    "warning": "Make sure the screenshot is taken directly from the D17 app. Admin verifies manually.",
+    "submitPayment": "Submit payment",
+    "submittedSuccess": "Submitted successfully!",
+    "ticketNumber": "Ticket number:",
+    "reviewMessage": "Your request will be reviewed and your subscription activated",
+    "goToDashboard": "Dashboard",
+    "monthly": "month",
+    "error": "An error occurred", "codeExpired": "Code has expired",
+    "fileTypeInvalid": "Upload an image only (JPG or PNG)",
+    "fileTooSmall": "Image too small (less than 50KB)", "fileTooLarge": "Image too large (more than 10MB)",
+    "wrongDimensions": "Upload a full screenshot from D17",
+    "connectionError": "Connection error"
+  },
+  "widgets": { "actions": "Actions" },
+  "security": {
+    "title": "Security Center",
+    "attacksBlocked": "Attacks Blocked",
+    "todayAttacks": "Today's Attacks",
+    "blockedIps": "Blocked IPs",
+    "healthyTraffic": "Healthy Traffic",
+    "attackBreakdown": "Attack Breakdown",
+    "noAttacks": "No attacks recorded today",
+    "blockIpAddress": "Block IP Address",
+    "blockIp": "Block IP",
+    "blockedIpList": "Blocked IPs",
+    "recentLogs": "Recent Security Logs",
+    "ip": "IP Address",
+    "reason": "Reason",
+    "type": "Type",
+    "attempts": "Attempts",
+    "date": "Date",
+    "action": "Action",
+    "endpoint": "Endpoint",
+    "status": "Status",
+    "unblock": "Unblock",
+    "noBlockedIps": "No blocked IPs",
+    "noLogs": "No security logs",
+    "refresh": "Refresh",
+    "reasons": {
+      "manual": "Manual",
+      "ddos": "DDoS",
+      "brute_force": "Brute Force",
+      "sql_injection": "SQL Injection",
+      "fraud": "Fraud"
+    }
+  }
+}
