@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="public/images/logo.svg" alt="EQUINOX Logo" width="120" height="120" />
+<img src="public/images/logo.svg" alt="EQUINOX Logo" width="240" height="130" />
 
 # EQUINOX
 
