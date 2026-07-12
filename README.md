@@ -2,7 +2,6 @@
 
 <img src="public/images/logo.svg" alt="EQUINOX Logo" width="300" height="250" />
 
-# EQUINOX
 
 ### 🎓 Tunisian University E-Learning Platform
 
