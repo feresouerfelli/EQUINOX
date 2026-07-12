@@ -302,30 +302,10 @@ For production deployment, refer to the configuration files in:
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. **Fork** the repository
-2. **Create** your feature branch: `git checkout -b feature/my-feature`
-3. **Commit** your changes: `git commit -m 'feat: add my feature'`
-4. **Push** to the branch: `git push origin feature/my-feature`
-5. **Open** a Pull Request
-
-Please follow [Conventional Commits](https://www.conventionalcommits.org/) for commit messages.
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-
----
-
 <div align="center">
 
 Made By Feres Ouerfelli
 
-**EQUINOX EduTN** — Empowering Tunisian Higher Education
+**EQUINOX ** — Empowering Tunisian Higher Education
 
 </div>
